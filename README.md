@@ -93,3 +93,6 @@ Here is an example
 ## Web Version
 
 https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/
+
+#### NOTICE: 
+It's still in beta compared to real project. It used outdated model which might not detect it properly.
